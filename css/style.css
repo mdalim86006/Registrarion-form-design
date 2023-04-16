@@ -1,0 +1,63 @@
+.regestrion_box{
+	width: 40%;
+	margin: 50px auto;
+}
+
+.main-form{
+	width: 100%;
+	padding: 50px;
+	background-color: #eee;
+	border: 2px solid black;
+	border-radius: 3px;
+}
+
+.main-form h2{
+	font-size: 32px;
+	line-height: 42px;
+	color: red;
+	text-transform: uppercase;
+	font-weight: 400;
+	text-align: center;
+	margin: 20px 0px;
+}
+
+.main-form .from-group{
+	width: 100%;
+	margin: 15px 0px;
+}
+
+.main-form .from-group label{
+	display: block;
+	font-size: 14px;
+	line-height: 24px;
+	text-transform: uppercase;
+	font-weight: 400;
+	margin: 0px 0px 5px;
+	text-align: left;
+}
+
+.main-form .form-control{
+	width: 97%;
+	padding: 10px;
+	font-size: 13px;
+	border: 1px solid #000;
+}
+
+.main-form .btn-btn{
+	padding: 15px 20px;
+	border: solid #000;
+	background: #000;
+	color: #fff;
+	font-weight: 400;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	margin: 15px 0px 0px;
+	cursor: pointer;
+}
+
+.main-form .btn-btn:hover{
+	transition: 1s;
+	border: 1px solid #000;
+	background: red;
+	color: #fff;
+}
